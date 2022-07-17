@@ -20,7 +20,7 @@
 
 **One-page-portfolio-Website-v1** is a single page web application for **Minimilistic Personal Portfolio**. Feel free to clone and use .
 
-<img width="35" src="https://onepagev1.aenmo.dev/img/ss.png">
+<img src="https://onepagev1.aenmo.dev/img/ss.png">
 
 ## Usage
 

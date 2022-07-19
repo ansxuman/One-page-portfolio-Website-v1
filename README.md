@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://cv.posquit0.com">
+  <a href="https://onepagev1.aenmo.dev/">
     <img alt="E" src="https://img.shields.io/badge/cv-demo-green.svg" />
   </a>
   <a href="https://opensource.org/licenses/mit-license.php">
